@@ -1,0 +1,8 @@
+{
+  "name": "PickTrip",
+  "description": "A minimalist, premium black-and-white travel packing suitcase app in Kurdish, English, and Arabic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
